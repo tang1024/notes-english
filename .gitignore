@@ -1,0 +1,30 @@
+# directory
+backup
+target
+
+build_msvc
+build_clangcl
+build_mingw
+
+# visual studio cmake
+# out
+
+.git
+.vs
+
+# clion
+.idea
+cmake-build-debug
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch

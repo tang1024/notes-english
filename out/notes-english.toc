@@ -1,0 +1,8 @@
+\contentsline {chapter}{\numberline {1}Tenses}{2}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Present continuous (I am doing)}{2}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Present simple (I do)}{3}{section.1.2}% 
+\contentsline {chapter}{\numberline {2}Usage of Words or Phrases}{4}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}as to}{4}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}does not mean that it is easy}{4}{section.2.2}% 
+\contentsline {section}{\numberline {2.3}be cast as}{4}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}be worth}{4}{section.2.4}% 
